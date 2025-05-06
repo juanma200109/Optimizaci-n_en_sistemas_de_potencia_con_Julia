@@ -1,0 +1,14 @@
+name = "PowerSystemsOptimizationJulia"
+version = "0.1.0"
+
+[deps]
+CSV = "0.10.15"
+DataFrames = "1.7.0"
+HiGHS = "1.16.0"
+IJulia = "1.27.0"
+Ipopt = "1.10.2"
+JuMP = "1.25.0"
+Plots = "1.40.13"
+
+[compact]
+julia = "1.11.3"
